@@ -1,0 +1,19 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Engine;
+
+public class LivingCreature
+{
+    public int MaximumHealth { get; set; }
+    public int CurrentHealth { get; set; }
+    
+    public LivingCreature(int currentHealth, int maximumHealth)
+    {
+        CurrentHealth = currentHealth;
+        MaximumHealth = maximumHealth;
+    }
+}
