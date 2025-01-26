@@ -1,0 +1,1 @@
+ScottLilly's C# guide is from about 2013, and I have a couple issues with it. Also: I am on JetBrain's Rider program, not VSCode, as VSCode wouldn't work. Here is the link to the code that broke my solution: https://gist.github.com/ScottLilly/208630cfcdded1cbfdc0  I also have it in Broken_Code/LessonSixteenOne.cs
